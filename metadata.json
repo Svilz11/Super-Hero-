@@ -1,0 +1,5 @@
+{
+  "name": "SuperHero Prime: 2.5D Multi-Verse Runner",
+  "description": "An interactive superhero game concept where Gemini generates unique heroes and level lore. Features a playable 2.5D-style physics platformer engine with parallax backgrounds and dynamic ability sets.",
+  "requestFramePermissions": []
+}
